@@ -1,0 +1,30 @@
+{
+  "name": "@ggns/use-click",
+  "version": "1.0.0",
+  "description": "React hook to clickEvent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gangnamssal/gnshooks.git"
+  },
+  "keywords": [
+    "react",
+    "React",
+    "hook",
+    "useClick",
+    "hook"
+  ],
+  "author": "Kim Tae Heon (ggnsall@naver.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gangnamssal/gnshooks/issues"
+  },
+  "homepage": "https://github.com/gangnamssal/gnshooks#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
